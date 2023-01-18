@@ -1,3 +1,4 @@
+//Author Adarsha Bhandari
 // Header file
 #include <stdio.h>
 #include <string.h>
