@@ -1,7 +1,6 @@
 //Author Adarsha Bhandari
 // Header file
 #include <stdio.h>
-#include<conio.h>
 #include <string.h>
 
 // Initializing structure date
